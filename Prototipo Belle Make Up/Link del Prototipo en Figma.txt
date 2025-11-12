@@ -1,0 +1,5 @@
+# Prototipo Figma - Tienda Virtual de Maquillaje (Belle Make Up)
+
+Este es el prototipo inicial del proyecto, creado en Figma.
+
+👉 [Ver prototipo en Figma](https://www.figma.com/design/eXAxCaxQRAtJzMCd37K6Po/Belle-Make-Up?node-id=0-1&t=BfEbKJOaFH4Xnzi9-1)
